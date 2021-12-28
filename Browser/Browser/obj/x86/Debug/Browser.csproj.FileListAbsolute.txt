@@ -1,0 +1,17 @@
+C:\Users\Sara\AppData\Local\Temporary Projects\Browser\bin\Debug\Browser.exe
+C:\Users\Sara\AppData\Local\Temporary Projects\Browser\bin\Debug\Browser.pdb
+C:\Users\Sara\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\Browser.Form1.resources
+C:\Users\Sara\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\Browser.Properties.Resources.resources
+C:\Users\Sara\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\Browser.csproj.GenerateResource.Cache
+C:\Users\Sara\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\Browser.exe
+C:\Users\Sara\AppData\Local\Temporary Projects\Browser\obj\x86\Debug\Browser.pdb
+\\Mac\Home\Downloads\FDACYW3I21RBTDY\Browser\Browser\bin\Debug\Browser.exe.config
+\\Mac\Home\Downloads\FDACYW3I21RBTDY\Browser\Browser\bin\Debug\Browser.exe
+\\Mac\Home\Downloads\FDACYW3I21RBTDY\Browser\Browser\bin\Debug\Browser.pdb
+\\Mac\Home\Downloads\FDACYW3I21RBTDY\Browser\Browser\obj\x86\Debug\Browser.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\FDACYW3I21RBTDY\Browser\Browser\obj\x86\Debug\Browser.Form1.resources
+\\Mac\Home\Downloads\FDACYW3I21RBTDY\Browser\Browser\obj\x86\Debug\Browser.Properties.Resources.resources
+\\Mac\Home\Downloads\FDACYW3I21RBTDY\Browser\Browser\obj\x86\Debug\Browser.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\FDACYW3I21RBTDY\Browser\Browser\obj\x86\Debug\Browser.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\FDACYW3I21RBTDY\Browser\Browser\obj\x86\Debug\Browser.exe
+\\Mac\Home\Downloads\FDACYW3I21RBTDY\Browser\Browser\obj\x86\Debug\Browser.pdb
